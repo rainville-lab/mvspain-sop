@@ -52,3 +52,7 @@ git push origin <name_of_your_branch>
 8. Create a PR on Github to merge your branch in `main`
 
 Add the appropriate reviewers, and wait for the review :tada:
+
+## Acknowledgement
+
+The requirements and structure of that repository is based on the [physiopy-community-practices repository](https://github.com/physiopy/physiopy-community-practices) 🙌

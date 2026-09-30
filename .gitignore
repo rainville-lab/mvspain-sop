@@ -76,6 +76,8 @@ instance/
 docs/_build/
 docs/api/
 docs/api/generated
+docs/source/generated
+docs/source/sg_execution_times.rst
 
 # PyBuilder
 target/

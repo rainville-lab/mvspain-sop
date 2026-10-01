@@ -1,5 +1,8 @@
 # Standard Operating Procedure
 
+[![Documentation Status](https://img.shields.io/readthedocs/mvspain-sop?style=flat&label=readthedocs&logo=readthedocs)](https://mvspain-sop.readthedocs.io/en/latest/?badge=latest)
+[![Static Badge](https://img.shields.io/github/license/rainville-lab/mvspain-sop?style=flat)](https://github.com/rainville-lab/mvspain-sop/blob/master/LICENSE)
+
 This repository contains the source files for the Standard Operating Procedure for the
 Metaphorical Verbal Suggestion for Modulating Pain Experience project.
 

@@ -19,3 +19,9 @@ Standard Operating Procedure for the MVSPain project
       Data storage <data_storage>
       Data preprocessing <data_preprocessing>
       Data QA/QC <data_quality>
+
+   .. toctree::
+      :caption: PILOT
+      :maxdepth: 2
+
+      MRI pilot <mri_pilot>

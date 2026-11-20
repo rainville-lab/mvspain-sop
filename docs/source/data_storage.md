@@ -9,11 +9,10 @@ https://app.readthedocs.org/dashboard/
 
 
 ## team access on gitlab
-#private
 
-TODO:refer to project orientation in ressources on drive
+Private: See project_orientation.py in `/ressources` on Onedrive
 
 ## ELM (internal procedure only, e/g/ sur teams)
-#private
 
-TODO: Refer to the file on onedrive (project orientation)
+Private: See project_orientation.py in `/ressources` on Onedrive
+

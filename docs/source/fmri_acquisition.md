@@ -19,14 +19,14 @@
 
 #### Prepration of the material
 
-Gather all necessary equipment for the experiment:
-- [ ] Digitimer 
-...
-
--[ ] Gel
-
+Gather all necessary equipment for the experiment: See the material needed to
 
 ## Before the participant arrives - In the prep room
+
+#### Necessary material
+
+- [ ] Clean short for the participant
+- [ ] Slippers 
 
 #### Physio/biopac
 
@@ -39,6 +39,11 @@ Gather all necessary equipment for the experiment:
     - [ ] 2 EL509 electrodes (EDA)
 - [ ] Cut the bottom of two of the EL508 electrodes.
 
+Make sure to have ready:
+- [ ] Cissors
+- [ ] Razor 
+- [ ] Brown paper
+- [ ] Impedence meter with two electrode leads
 
 ## Before the participant arrives - In the back room
 
@@ -85,11 +90,18 @@ Gather all necessary equipment for the experiment:
 
 - [ ] Pass the Digitimer cable in the waveguide
 
+**DS8R settings**
+
+<INSERT IMAGE> 
+
 #### Psychopy computer
 
 - [ ] code setup
 
 - Open the reference list (annexe?) for the scripts to run
+- [ ] Connect the Sound system Aux port to the psychopy PC
+- [ ] Connect the computer via HDMI port to the psychopy PC
+- [ ] Make sure the sound output is set to headphone (not speaker or HDMI) to send the audio via the Aux output. 
 
 #### Acqkowledge computer
 
@@ -108,7 +120,7 @@ To deliver the auditory stimuli, an MRI-compatible earphone system is used ([Sen
 
 ==todo insert imsge sound system==
 - [ ] Make sure that the sound system is on and that the red light indicates A
-
+- [ ] Make sure the balance nob is set to the middle
 
 ## Before the participant arrives - In the MRI room
 

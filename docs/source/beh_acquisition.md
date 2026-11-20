@@ -8,7 +8,7 @@ A day before the visit, visit the testing room and make sure that there are:
 - [ ] Clean testing shorts for the participant to wear
 - [ ] Headphones, testing laptop and 
 
-## Hours before the session
+## Hours before the session -In the testing room
 
 Go to the testing room and setup the room properly
 
@@ -17,6 +17,14 @@ Stimulation equipment:
 - [ ] Printed FIC for the behavioral and MRI-EEG sessions
 - [ ] Look up the participant ID and write it to the FICs
 - [ ] 
+
+
+* Oscilloscope, Digitimer, SPP400 settings
+* Acqknowledge computer
+
+* Testing computer
+    - ==Different than the Acq. one?==
+
 
 
 ## During the session
@@ -46,12 +54,17 @@ Go over the MRI counter-indications with the participant
 
 ### Pain calibration procedure (30-45 min.)
 
+> Instructions :speech_balloon: 
+Instruction to the pain scale, walk-trhough, etc.
+
+
+Make sure to ask and record (==where?==) if the participant's hormonal cycle period, ask how they slept, if anything particularly stessful happened today...
+
+
 Perform the pain calibration procedure
 
 ==TODO how to run script and explicit procedure==
 
-**Oscilloscope** :
-Settings 
 
 ### Hypnotic test and questionnaires
 
@@ -84,7 +97,6 @@ Participation in science, so in order for data to be valid :
 - MRI requires very few movement
 - Very expensive, so important to make sure to show up
 - Want to maximize the participant data inclusion
-- 
 
 ### Goodbye procedure
 
@@ -98,4 +110,4 @@ Participation in science, so in order for data to be valid :
 **Clean up the room**
     - [ ] Clean the carpet/floor with the hand vacum
     - [ ] clean the headphone worn by the participant during the test
-- [ ] Make sure that there are enough clean short  
+- [ ] Make sure that there are enough clean shorts  
